@@ -6,7 +6,7 @@ Escolhi 10 das dezenas de questões que resolvi para postar aqui. Selecionei est
 A linguagem de programação utilizada para a resolução foi Ruby.
 
 # Rodando os exercícios
-Para se rodar um dos exercícios, basta digitar no terminal o nome da linguagem seguida do nome do exercício.
+Para se rodar um dos exercícios, basta digitar no terminal (Linux ou WSL) o nome da linguagem seguida do nome do exercício.
 * Exemplo: "ruby exercicio1.rb"
 
 Tendo feito isso, o arquivo será executado e o algoritmo irá ser iniciado.
