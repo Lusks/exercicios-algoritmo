@@ -9,4 +9,4 @@ A linguagem de programação utilizada para a resolução foi Ruby.
 Para se rodar um dos exercícios, basta digitar no terminal (Linux ou WSL) o nome da linguagem seguida do nome do exercício.
 * Exemplo: "ruby exercicio1.rb"
 
-Tendo feito isso, o arquivo será executado e o algoritmo irá ser iniciado.
+Tendo feito isso, o arquivo será executado e o algoritmo será iniciado.
